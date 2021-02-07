@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!nvim/*
+!prettier/*
+!vim/*
+!vscode/*
+!yabai/*
+!zsh/*
