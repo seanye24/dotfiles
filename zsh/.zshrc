@@ -24,6 +24,7 @@ setopt globdots
 alias ll='ls -lah' # long list hidden files shortcut
 alias vim='nvim' # neovim as vim
 alias g='git' # git as g
+alias gcm='git commit -m' # git as g
 
 # homebrew completions
 if type brew &>/dev/null; then
